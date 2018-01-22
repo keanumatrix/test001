@@ -17,5 +17,7 @@ while True:
         output = ser.read(10)
         print output
         time.sleep(3)
+        
+    #Trial 1st
 
 
